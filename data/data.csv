@@ -1,35 +1,35 @@
-student_id,course_code,course_title,final_grade,units,year_level,semester,academic_year,,,,,
-101,CFED 1013,God’s Journey with His People,87,3,1,1,2023-2024,,,,,
-101,PDEV 1013,Understanding the Self,83,3,1,1,2023-2024,,,,,
-101,MATH 1013,Mathematics in the Modern World,83,3,1,1,2023-2024,,,,,
-101,HIST 1013,Readings in Philippine History,91,3,1,1,2023-2024,,,,,
-101,PROG 1013,Introduction to Computing,90,3,1,1,2023-2024,,,,,
-101,PROG 1023,Computer Programming 1,80,3,1,1,2023-2024,,,,,
-101,PHED 1012,Physical Activity Towards Health and Fitness (Health and Wellness),92,2,1,1,2023-2024,,,,,
-101,CFED 1023,Christian Morality in our Times,84,3,1,2,2023-2024,,,,,
-101,ARTS 1013,Art Appreciation,87,3,1,2,2023-2024,,,,,
-101,CONW 1013,The Contemporary World,91,3,1,2,2023-2024,,,,,
-101,DMAT 1013,Discrete Mathematics,76,3,1,2,2023-2024,,,,,
-101,ENGL 1013,Purposive Communication,88,3,1,2,2023-2024,,,,,
-101,PHED 1022,Physical Activity Towards Health and Fitness(Combative Sports),91,2,1,2,2023-2024,,,,,
-101,PRES 1013,Presentation Skills,89,3,1,2,2023-2025,,,,,
-101,PROG 1033,Computer Programming 2,82,3,1,2,2023-2026,,,,,
-101,NSTP 1013,National Service Training Program 1,89,3,1,summer,2023-2027,,,,,
-101,LANG 1013,Foreign Language,88,3,1,summer,2024-2025,,,,,
-101,CFED 1033,Catholic Foundation of Mission,92,3,2,1,2024-2025,,,,,
-101,IHCI 1013,Introduction to Human-Computer Interaction,93,3,2,1,2024-2025,,,,,
-101,PROG 1063,Object-Oriented Programming,89,3,2,1,2024-2025,,,,,
-101,PROG 1073,Data Structure and Algorithms,87,3,2,1,2024-2025,,,,,
-101,WSAT 1013,Web Systems and Technologies 1,92,3,2,1,2024-2025,,,,,
-101,SCTS 1013,"Science, Technology, and Society",92,3,2,1,2024-2025,,,,,
-101,PHED 1032,Physical Activity Towards Health and Fitness (Indoor Games),87,2,2,1,2024-2025,,,,,
-101,CFED 1043,CICM Missionary Identity,90,3,2,2,2024-2025,,,,,
-101,DBMS 1013,Information Management,87,3,2,2,2024-2025,,,,,
-101,ENTR 1013,Technopreneurship 101,92,3,2,2,2024-2025,,,,,
-101,STAT 1013,Statistics,96,3,2,2,2024-2025,,,,,
-101,WSAT1023,Web Systems and Technologies 2,90,3,2,2,2024-2025,,,,,
-101,ITED 1013,Quantitative Methods (including Modeling and Simulation,90,3,2,2,2024-2025,,,,,
-101,ITED 1023,Platform Technologies,88,3,2,2,2024-2025,,,,,
-101,PHED 1042,Physical Activity Towards Health and Fitness (Outdoor and Adventure Activities),95,2,2,2,2024-2025,,,,,
-101,NSTP 1023,National Service Training Program 2,95,3,2,summer,2024-2025,,,,,
-101,IPAT 1013,Integrative Programming and Technologies 1,91,3,2,summer,2024-2025,,,,,
+student_id,course_code,course_title,final_grade,units,year_level,semester,academic_year,,include_in_gwa
+101,CFED 1013,God’s Journey with His People,87,3,1,1,2023-2024,,Yes
+101,PDEV 1013,Understanding the Self,83,3,1,1,2023-2024,,Yes
+101,MATH 1013,Mathematics in the Modern World,83,3,1,1,2023-2024,,Yes
+101,HIST 1013,Readings in Philippine History,91,3,1,1,2023-2024,,Yes
+101,PROG 1013,Introduction to Computing,90,3,1,1,2023-2024,,Yes
+101,PROG 1023,Computer Programming 1,80,3,1,1,2023-2024,,Yes
+101,PHED 1012,Physical Activity Towards Health and Fitness (Health and Wellness),92,2,1,1,2023-2024,,Yes
+101,CFED 1023,Christian Morality in our Times,84,3,1,2,2023-2024,,Yes
+101,ARTS 1013,Art Appreciation,87,3,1,2,2023-2024,,Yes
+101,CONW 1013,The Contemporary World,91,3,1,2,2023-2024,,Yes
+101,DMAT 1013,Discrete Mathematics,76,3,1,2,2023-2024,,Yes
+101,ENGL 1013,Purposive Communication,88,3,1,2,2023-2024,,Yes
+101,PHED 1022,Physical Activity Towards Health and Fitness(Combative Sports),91,2,1,2,2023-2024,,Yes
+101,PRES 1013,Presentation Skills,89,3,1,2,2023-2025,,Yes
+101,PROG 1033,Computer Programming 2,82,3,1,2,2023-2026,,Yes
+101,NSTP 1013,National Service Training Program 1,89,3,1,summer,2023-2027,,No
+101,LANG 1013,Foreign Language,88,3,1,summer,2024-2025,,No
+101,CFED 1033,Catholic Foundation of Mission,92,3,2,1,2024-2025,,Yes
+101,IHCI 1013,Introduction to Human-Computer Interaction,93,3,2,1,2024-2025,,Yes
+101,PROG 1063,Object-Oriented Programming,89,3,2,1,2024-2025,,Yes
+101,PROG 1073,Data Structure and Algorithms,87,3,2,1,2024-2025,,Yes
+101,WSAT 1013,Web Systems and Technologies 1,92,3,2,1,2024-2025,,Yes
+101,SCTS 1013,"Science, Technology, and Society",92,3,2,1,2024-2025,,Yes
+101,PHED 1032,Physical Activity Towards Health and Fitness (Indoor Games),87,2,2,1,2024-2025,,Yes
+101,CFED 1043,CICM Missionary Identity,90,3,2,2,2024-2025,,Yes
+101,DBMS 1013,Information Management,87,3,2,2,2024-2025,,Yes
+101,ENTR 1013,Technopreneurship 101,92,3,2,2,2024-2025,,Yes
+101,STAT 1013,Statistics,96,3,2,2,2024-2025,,Yes
+101,WSAT1023,Web Systems and Technologies 2,90,3,2,2,2024-2025,,Yes
+101,ITED 1013,Quantitative Methods (including Modeling and Simulation,90,3,2,2,2024-2025,,Yes
+101,ITED 1023,Platform Technologies,88,3,2,2,2024-2025,,Yes
+101,PHED 1042,Physical Activity Towards Health and Fitness (Outdoor and Adventure Activities),95,2,2,2,2024-2025,,Yes
+101,NSTP 1023,National Service Training Program 2,95,3,2,summer,2024-2025,,No
+101,IPAT 1013,Integrative Programming and Technologies 1,91,3,2,summer,2024-2025,,No
